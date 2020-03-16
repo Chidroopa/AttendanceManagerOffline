@@ -10,7 +10,7 @@ on:
 
 jobs:
   test:
-    name: Run UI Tests
+    name: Run UI Test
     runs-on: ubuntu-18.04
 
     steps:
